@@ -18,9 +18,11 @@ As you do your evaluation, please keep an open mind and focus on the positive. T
 
 To that end, keep the following things in mind:
 
-DO
+DO:
 
-Review the source code. Keep an open mind and focus on the positive.≤/li> When in doubt, err on the side of giving too many points, rather than giving too few. Ask yourself if a plot might answer a question for the person who created it. Remember that not everyone has the same statistical background and knowledge. DON'T:
+Review the source code. Keep an open mind and focus on the positive.≤/li> When in doubt, err on the side of giving too many points, rather than giving too few. Ask yourself if a plot might answer a question for the person who created it. Remember that not everyone has the same statistical background and knowledge.
+
+DON'T:
 
 Deduct just because you disagree with someone's statistical methods. Deduct just because you disagree with someone's plotting methods. Deduct based on aesthetics. Loading the dataless When loading the dataset into R, please consider the following:
 
